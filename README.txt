@@ -4,7 +4,6 @@ KELAS: 5A
 
 Screenshoot Hasil:
 
-
 Cara menjalankan proyek:
 - Buka Command Prompt/Terminal di vs code atau folder, lalu pastikan direktori berada di dalam folder diary-app dan jalankan printah: 
 cd diary-app
